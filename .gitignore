@@ -1,0 +1,4 @@
+config/twilio_credentials.json
+data/message.json
+data/numbers.json
+logs/
