@@ -1,0 +1,11 @@
+{
+  "exampleMessage": "This is the message that you want to send to your list of phone numbers. Unfortunately, the SMS system has a 160 character limit and will split a long message into multiple texts. To avoid a split in the middle of a word, you can use an array of strings under 160 characters in length instead. This lets you decide where the breaks happen so everything looks nicer! Some phones can put split SMSs back together though, so sending it as one message might also work.\n\nTest both yourself!",
+  "exampleMessageSplit": [
+    "This is the message that you want to send to your list of phone numbers.",
+    "Unfortunately, the SMS system has a 160 character limit and will split a long message into multiple texts.",
+    "To avoid a split in the middle of a word, you can use an array of strings under 160 characters in length instead.",
+    "This lets you decide where the breaks happen so everything looks nicer!",
+    "Some phones can put split SMSs back together though, so sending it as one message might also work.",
+    "Test both yourself!"
+  ]
+}
